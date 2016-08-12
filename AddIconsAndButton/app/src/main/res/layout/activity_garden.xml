@@ -12,17 +12,16 @@
         android:scaleType="fitXY"
         android:layout_alignParentTop="true"
         android:layout_alignParentStart="true"
-        android:src="@drawable/garden" />
+        android:src="@drawable/appleimage" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Go Main"
         android:id="@+id/button3"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="47dp"
         android:paddingLeft="30dp"
         android:paddingRight="30dp"
-        android:onClick="openMain" />
+        android:onClick="openMain"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
 </RelativeLayout>

@@ -6,7 +6,7 @@
         android:showAsAction="never">
     </item>
 
-    <item android:id="@+id/acout_us_id"
+    <item android:id="@+id/about_us_id"
         android:title="About Us"
         android:showAsAction="never">
 
